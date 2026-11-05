@@ -1,0 +1,719 @@
+fileFormatVersion: 2
+guid: 2584ebba21b4da14c90905650ecf3860
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4996496732227141630
+    second: Atlas_Modular_64x64_Grid_7Kolom_0
+  - first:
+      213: -7716406991190973353
+    second: Atlas_Modular_64x64_Grid_7Kolom_1
+  - first:
+      213: 741092449221961828
+    second: Atlas_Modular_64x64_Grid_7Kolom_2
+  - first:
+      213: 8424910707223372848
+    second: Atlas_Modular_64x64_Grid_7Kolom_3
+  - first:
+      213: 1778494539896685016
+    second: Atlas_Modular_64x64_Grid_7Kolom_4
+  - first:
+      213: -2830889148199708369
+    second: Atlas_Modular_64x64_Grid_7Kolom_5
+  - first:
+      213: 7715126069197301108
+    second: Atlas_Modular_64x64_Grid_7Kolom_6
+  - first:
+      213: -7512350571107170138
+    second: Atlas_Modular_64x64_Grid_7Kolom_7
+  - first:
+      213: -7141256797075747302
+    second: Atlas_Modular_64x64_Grid_7Kolom_8
+  - first:
+      213: -5719804431873323493
+    second: Atlas_Modular_64x64_Grid_7Kolom_9
+  - first:
+      213: -1240140673234211716
+    second: Atlas_Modular_64x64_Grid_7Kolom_10
+  - first:
+      213: 3701254082294261555
+    second: Atlas_Modular_64x64_Grid_7Kolom_11
+  - first:
+      213: -9251910881156088
+    second: Atlas_Modular_64x64_Grid_7Kolom_12
+  - first:
+      213: 763826783130963230
+    second: Atlas_Modular_64x64_Grid_7Kolom_13
+  - first:
+      213: 2656486178587339462
+    second: Atlas_Modular_64x64_Grid_7Kolom_14
+  - first:
+      213: -3549043037305649953
+    second: Atlas_Modular_64x64_Grid_7Kolom_15
+  - first:
+      213: -5612868282129536598
+    second: Atlas_Modular_64x64_Grid_7Kolom_16
+  - first:
+      213: -4573741594387156438
+    second: Atlas_Modular_64x64_Grid_7Kolom_17
+  - first:
+      213: -5972065587222138889
+    second: Atlas_Modular_64x64_Grid_7Kolom_18
+  - first:
+      213: 5657745848979314134
+    second: Atlas_Modular_64x64_Grid_7Kolom_19
+  - first:
+      213: 2143426194034480054
+    second: Atlas_Modular_64x64_Grid_7Kolom_20
+  - first:
+      213: -2065389315582969743
+    second: Atlas_Modular_64x64_Grid_7Kolom_21
+  - first:
+      213: 1209273298146896008
+    second: Atlas_Modular_64x64_Grid_7Kolom_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fence_Horizontal_Short
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 196
+        width: 74
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2008332d1b0e8aab0800000000000000
+      internalID: -4996496732227141630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fence_Horizontal_Long
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 196
+        width: 135
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 754a8bb89b0d9e490800000000000000
+      internalID: -7716406991190973353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fence_Horizontal_Left_End
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 196
+        width: 51
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4686995f7a3e84a00800000000000000
+      internalID: 741092449221961828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fence_Horizontal_Right_End
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 196
+        width: 53
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0342f60b6ab4be470800000000000000
+      internalID: 8424910707223372848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fence_Vertical_01
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 132
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d183857c5b7ea810800000000000000
+      internalID: 1778494539896685016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fence_Vertical_02
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 132
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f295c038159a6b8d0800000000000000
+      internalID: -2830889148199708369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fence_Vertical_03
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 132
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4756cdf8842a11b60800000000000000
+      internalID: 7715126069197301108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fence_Vertical_04
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 132
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a844fc25f4ceb790800000000000000
+      internalID: -7512350571107170138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fence_Vertical_05
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 132
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1ec47077c825ec90800000000000000
+      internalID: -7141256797075747302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fence_Vertical_06
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 132
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1e4c7d8c2c2f90b0800000000000000
+      internalID: -5719804431873323493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fence_Vertical_07
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 132
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7c6c54d0a22acee0800000000000000
+      internalID: -1240140673234211716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fence_Conector_Right_01
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 68
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3372d9e4afe7d5330800000000000000
+      internalID: 3701254082294261555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fence_Conector_Left_01
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 68
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8046f62af612fdff0800000000000000
+      internalID: -9251910881156088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fence_Conector_Left_02
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 68
+        width: 48
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1d437e8968a99a00800000000000000
+      internalID: 763826783130963230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fence_Conector_Left_03
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 68
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6caee61da1cbdd420800000000000000
+      internalID: 2656486178587339462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fence_T_Junction_01
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 68
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd4c2d449244fbec0800000000000000
+      internalID: -3549043037305649953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fence_T_Junction_02
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 68
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa9ac9029061b12b0800000000000000
+      internalID: -5612868282129536598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fence_Post_Right
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 68
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a22ff1ca04ec680c0800000000000000
+      internalID: -4573741594387156438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fence_Post_Left
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 4
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ff2a426df5fe1da0800000000000000
+      internalID: -5972065587222138889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fence_Post_Single
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 4
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d55ad5afd9548e40800000000000000
+      internalID: 5657745848979314134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fence_Gate_Closed
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 4
+        width: 102
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b351b164cafebd10800000000000000
+      internalID: 2143426194034480054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fence_Gate_Open
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 4
+        width: 65
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1783ac14c534653e0800000000000000
+      internalID: -2065389315582969743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fence_Gate_EndPost
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 4
+        width: 28
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 888296c58a338c010800000000000000
+      internalID: 1209273298146896008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 2ee027fa0fa8691478ff390c5970c76a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Fence_Conector_Left_01: -9251910881156088
+      Fence_Conector_Left_02: 763826783130963230
+      Fence_Conector_Left_03: 2656486178587339462
+      Fence_Conector_Right_01: 3701254082294261555
+      Fence_Gate_Closed: 2143426194034480054
+      Fence_Gate_EndPost: 1209273298146896008
+      Fence_Gate_Open: -2065389315582969743
+      Fence_Horizontal_Left_End: 741092449221961828
+      Fence_Horizontal_Long: -7716406991190973353
+      Fence_Horizontal_Right_End: 8424910707223372848
+      Fence_Horizontal_Short: -4996496732227141630
+      Fence_Post_Left: -5972065587222138889
+      Fence_Post_Right: -4573741594387156438
+      Fence_Post_Single: 5657745848979314134
+      Fence_T_Junction_01: -3549043037305649953
+      Fence_T_Junction_02: -5612868282129536598
+      Fence_Vertical_01: 1778494539896685016
+      Fence_Vertical_02: -2830889148199708369
+      Fence_Vertical_03: 7715126069197301108
+      Fence_Vertical_04: -7512350571107170138
+      Fence_Vertical_05: -7141256797075747302
+      Fence_Vertical_06: -5719804431873323493
+      Fence_Vertical_07: -1240140673234211716
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

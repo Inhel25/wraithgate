@@ -1,0 +1,596 @@
+fileFormatVersion: 2
+guid: 89c749872597a3d4c82b86431d46ee65
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3853557049143911890
+    second: Star_Shadow_0
+  - first:
+      213: 5044345242268721699
+    second: Star_Shadow_1
+  - first:
+      213: -7260106064776298835
+    second: Star_Shadow_2
+  - first:
+      213: 2302844650979140028
+    second: Star_Shadow_3
+  - first:
+      213: 6699019409802001081
+    second: Star_Shadow_4
+  - first:
+      213: 897190709222526536
+    second: Star_Shadow_5
+  - first:
+      213: 4032152176619283996
+    second: Star_Shadow_6
+  - first:
+      213: -2282825848233637895
+    second: Star_Shadow_7
+  - first:
+      213: 7179237320138425494
+    second: Star_Shadow_8
+  - first:
+      213: 440177686894066489
+    second: Star_Shadow_9
+  - first:
+      213: -1507243730727047157
+    second: Star_Shadow_10
+  - first:
+      213: -4663331484665368460
+    second: Star_Shadow_11
+  - first:
+      213: 8834735701845132502
+    second: Star_Shadow_12
+  - first:
+      213: 9059021348085456135
+    second: Star_Shadow_13
+  - first:
+      213: 3046668607682384683
+    second: Star_Shadow_14
+  - first:
+      213: 8197553093078303249
+    second: Star_Shadow_15
+  - first:
+      213: -8080577957585769213
+    second: Star_Shadow_16
+  - first:
+      213: 4937485323465610799
+    second: Star_Shadow_17
+  - first:
+      213: 7139141158574299808
+    second: Star_Shadow_18
+  - first:
+      213: 3310994512072999975
+    second: Star_Shadow_19
+  - first:
+      213: 905777996074929981
+    second: Star_Shadow_20
+  - first:
+      213: 6731786550046349758
+    second: Star_Shadow_21
+  - first:
+      213: 7658143163345438780
+    second: Star_Shadow_22
+  - first:
+      213: -8100140131621545786
+    second: Star_Shadow_23
+  - first:
+      213: -5086496327537820732
+    second: Star_Shadow_24
+  - first:
+      213: 8970964321107211432
+    second: Star_Shadow_25
+  - first:
+      213: 633789353839095501
+    second: Star_Shadow_26
+  - first:
+      213: -4264730972480378719
+    second: Star_Shadow_27
+  - first:
+      213: 8296743211866149367
+    second: Star_Shadow_28
+  - first:
+      213: 7312315569140103184
+    second: Star_Shadow_29
+  - first:
+      213: -4717305926367313589
+    second: Star_Shadow_30
+  - first:
+      213: 8351782623639787299
+    second: Star_Shadow_31
+  - first:
+      213: -4172407030502005085
+    second: Star_Shadow_32
+  - first:
+      213: 4537879168684141471
+    second: Star_Shadow_33
+  - first:
+      213: 8551218006930250430
+    second: Star_Shadow_34
+  - first:
+      213: 8387511481758523646
+    second: Star_Shadow_35
+  - first:
+      213: 5856774368622267957
+    second: Star_Shadow_36
+  - first:
+      213: -8258342449928045259
+    second: Star_Shadow_37
+  - first:
+      213: 7834076786862793187
+    second: Star_Shadow_38
+  - first:
+      213: -2908950839030636177
+    second: Star_Shadow_39
+  - first:
+      213: -8601096697305223638
+    second: Star_Shadow_40
+  - first:
+      213: 1798811551634449840
+    second: Star_Shadow_41
+  - first:
+      213: 1486332388445406087
+    second: Star_Shadow_42
+  - first:
+      213: 7209580618675064626
+    second: Star_Shadow_43
+  - first:
+      213: -7259409314032343574
+    second: Star_Shadow_44
+  - first:
+      213: -3118534121000294325
+    second: Star_Shadow_45
+  - first:
+      213: -8268168423854604668
+    second: Star_Shadow_46
+  - first:
+      213: 9009340954685199622
+    second: Star_Shadow_47
+  - first:
+      213: 6812675125083847598
+    second: Star_Shadow_48
+  - first:
+      213: 1466200333165897795
+    second: Star_Shadow_49
+  - first:
+      213: 4318052017097709635
+    second: Star_Shadow_50
+  - first:
+      213: 3560430409969708075
+    second: Star_Shadow_51
+  - first:
+      213: -5053985542549409096
+    second: Star_Shadow_52
+  - first:
+      213: -1379961457235756089
+    second: Star_Shadow_53
+  - first:
+      213: 105301974178224207
+    second: Star_Shadow_54
+  - first:
+      213: 90144464056519708
+    second: Star_Shadow_55
+  - first:
+      213: -4212142131045894412
+    second: Star_Shadow_56
+  - first:
+      213: -3587582716292834764
+    second: Star_Shadow_57
+  - first:
+      213: 7075267863457498220
+    second: Star_Shadow_58
+  - first:
+      213: -6641456364961605926
+    second: Star_Shadow_59
+  - first:
+      213: -7667195340683835336
+    second: Star_Shadow_60
+  - first:
+      213: 9043056537414518284
+    second: Star_Shadow_61
+  - first:
+      213: -4026200656726908278
+    second: Star_Shadow_62
+  - first:
+      213: -5968639099431118934
+    second: Star_Shadow_63
+  - first:
+      213: 8389744002597510181
+    second: Star_Shadow_64
+  - first:
+      213: -5766069267116606144
+    second: Star_Shadow_65
+  - first:
+      213: -2797602659427613972
+    second: Star_Shadow_66
+  - first:
+      213: -3854883301197315782
+    second: Star_Shadow_67
+  - first:
+      213: -6688921748644251171
+    second: Star_Shadow_68
+  - first:
+      213: 3180323056201420509
+    second: Star_Shadow_69
+  - first:
+      213: -2547137735915234107
+    second: Star_Shadow_70
+  - first:
+      213: 4599479386683780572
+    second: Star_Shadow_71
+  - first:
+      213: -696215595120510079
+    second: Star_Shadow_72
+  - first:
+      213: -8566627528179583234
+    second: Star_Shadow_73
+  - first:
+      213: -303805114822462089
+    second: Star_Shadow_74
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Selection_Sparkle_Large
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 553
+        width: 228
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2a1314e74a658ac0800000000000000
+      internalID: -3853557049143911890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Selection_Sparkle_Small
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 356
+        width: 117
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2c2eb90890396130800000000000000
+      internalID: 3560430409969708075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star_Shadow_58
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 421
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c640f1ca2a6603260800000000000000
+      internalID: 7075267863457498220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star_Shadow_61
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 346
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c06cd5432046f7d70800000000000000
+      internalID: 9043056537414518284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star_Shadow_64
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 330
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52cd94738bb5e6470800000000000000
+      internalID: 8389744002597510181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star_Shadow_65
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 323
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04db73f2d8ecaffa0800000000000000
+      internalID: -5766069267116606144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star_Shadow_66
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 311
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce2012e143bec29d0800000000000000
+      internalID: -2797602659427613972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Shadow_Normal
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 50
+        width: 339
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 146e4edf0f039384ab83b2bd4cec1d9d
+      internalID: 782637187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a902f25e03c19f349a068f2df6e308bd
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Character_Shadow_Normal: 782637187
+      Selection_Sparkle_Large: -3853557049143911890
+      Selection_Sparkle_Small: 3560430409969708075
+      Star_Shadow_1: 5044345242268721699
+      Star_Shadow_10: -1507243730727047157
+      Star_Shadow_11: -4663331484665368460
+      Star_Shadow_12: 8834735701845132502
+      Star_Shadow_13: 9059021348085456135
+      Star_Shadow_14: 3046668607682384683
+      Star_Shadow_15: 8197553093078303249
+      Star_Shadow_16: -8080577957585769213
+      Star_Shadow_17: 4937485323465610799
+      Star_Shadow_18: 7139141158574299808
+      Star_Shadow_19: 3310994512072999975
+      Star_Shadow_2: -7260106064776298835
+      Star_Shadow_20: 905777996074929981
+      Star_Shadow_21: 6731786550046349758
+      Star_Shadow_22: 7658143163345438780
+      Star_Shadow_23: -8100140131621545786
+      Star_Shadow_24: -5086496327537820732
+      Star_Shadow_25: 8970964321107211432
+      Star_Shadow_26: 633789353839095501
+      Star_Shadow_27: -4264730972480378719
+      Star_Shadow_28: 8296743211866149367
+      Star_Shadow_29: 7312315569140103184
+      Star_Shadow_3: 2302844650979140028
+      Star_Shadow_30: -4717305926367313589
+      Star_Shadow_31: 8351782623639787299
+      Star_Shadow_32: -4172407030502005085
+      Star_Shadow_33: 4537879168684141471
+      Star_Shadow_34: 8551218006930250430
+      Star_Shadow_35: 8387511481758523646
+      Star_Shadow_36: 5856774368622267957
+      Star_Shadow_37: -8258342449928045259
+      Star_Shadow_38: 7834076786862793187
+      Star_Shadow_39: -2908950839030636177
+      Star_Shadow_4: 6699019409802001081
+      Star_Shadow_40: -8601096697305223638
+      Star_Shadow_41: 1798811551634449840
+      Star_Shadow_42: 1486332388445406087
+      Star_Shadow_43: 7209580618675064626
+      Star_Shadow_44: -7259409314032343574
+      Star_Shadow_45: -3118534121000294325
+      Star_Shadow_46: -8268168423854604668
+      Star_Shadow_47: 9009340954685199622
+      Star_Shadow_48: 6812675125083847598
+      Star_Shadow_49: 1466200333165897795
+      Star_Shadow_5: 897190709222526536
+      Star_Shadow_50: 4318052017097709635
+      Star_Shadow_52: -5053985542549409096
+      Star_Shadow_53: -1379961457235756089
+      Star_Shadow_54: 105301974178224207
+      Star_Shadow_55: 90144464056519708
+      Star_Shadow_56: -4212142131045894412
+      Star_Shadow_57: -3587582716292834764
+      Star_Shadow_58: 7075267863457498220
+      Star_Shadow_59: -6641456364961605926
+      Star_Shadow_6: 4032152176619283996
+      Star_Shadow_60: -7667195340683835336
+      Star_Shadow_61: 9043056537414518284
+      Star_Shadow_62: -4026200656726908278
+      Star_Shadow_63: -5968639099431118934
+      Star_Shadow_64: 8389744002597510181
+      Star_Shadow_65: -5766069267116606144
+      Star_Shadow_66: -2797602659427613972
+      Star_Shadow_67: -3854883301197315782
+      Star_Shadow_68: -6688921748644251171
+      Star_Shadow_69: 3180323056201420509
+      Star_Shadow_7: -2282825848233637895
+      Star_Shadow_70: -2547137735915234107
+      Star_Shadow_71: 4599479386683780572
+      Star_Shadow_72: -696215595120510079
+      Star_Shadow_73: -8566627528179583234
+      Star_Shadow_74: -303805114822462089
+      Star_Shadow_8: 7179237320138425494
+      Star_Shadow_9: 440177686894066489
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,613 @@
+fileFormatVersion: 2
+guid: bdc32b16f0d47e34c92b4254d6d3d53f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6828553374051027957
+    second: Rui_Rea_Clues_0
+  - first:
+      213: 5614451035914022951
+    second: Rui_Rea_Clues_1
+  - first:
+      213: -6817280512718382094
+    second: Rui_Rea_Clues_2
+  - first:
+      213: 6029586747780659430
+    second: Rui_Rea_Clues_3
+  - first:
+      213: -7031949553317828459
+    second: Rui_Rea_Clues_4
+  - first:
+      213: -1547526736511451311
+    second: Rui_Rea_Clues_5
+  - first:
+      213: 866250070065781899
+    second: Rui_Rea_Clues_6
+  - first:
+      213: 1457113290015924697
+    second: Rui_Rea_Clues_7
+  - first:
+      213: 2679480382798049682
+    second: Rui_Rea_Clues_8
+  - first:
+      213: 5118288233296570099
+    second: Rui_Rea_Clues_9
+  - first:
+      213: 2972684779076083992
+    second: Rui_Rea_Clues_10
+  - first:
+      213: 6830808443054832420
+    second: Rui_Rea_Clues_11
+  - first:
+      213: 284088725424357853
+    second: Rui_Rea_Clues_12
+  - first:
+      213: -7458473714966082870
+    second: Rui_Rea_Clues_13
+  - first:
+      213: 1169290330350924902
+    second: Rui_Rea_Clues_14
+  - first:
+      213: -6214065224936748428
+    second: Rui_Rea_Clues_15
+  - first:
+      213: -3210759129417949570
+    second: Rui_Rea_Clues_16
+  - first:
+      213: 572653921210657523
+    second: Rui_Rea_Clues_17
+  - first:
+      213: -7448044787917780274
+    second: Rui_Rea_Clues_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Rui_Rea_Clues_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 595
+        width: 497
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b04b4e1b2ea1c31a0800000000000000
+      internalID: -6828553374051027957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rui_Rea_Clues_1
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 605
+        width: 493
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 720ba7478798aed40800000000000000
+      internalID: 5614451035914022951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rui_Rea_Clues_2
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 603
+        width: 475
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fb5a314e772461a0800000000000000
+      internalID: -6817280512718382094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rui_Rea_Clues_3
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 991
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e87ed373356da350800000000000000
+      internalID: 6029586747780659430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rui_Rea_Clues_4
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 997
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 598260c532f796e90800000000000000
+      internalID: -7031949553317828459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rui_Rea_Clues_5
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 989
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15fb0ddd1a4168ae0800000000000000
+      internalID: -1547526736511451311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rui_Rea_Clues_6
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 975
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8c9de069d9850c00800000000000000
+      internalID: 866250070065781899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rui_Rea_Clues_7
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 979
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d166e031d4b83410800000000000000
+      internalID: 1457113290015924697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rui_Rea_Clues_8
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 947
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2913e4f263d6f2520800000000000000
+      internalID: 2679480382798049682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rui_Rea_Clues_9
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 949
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f624b3c700d70740800000000000000
+      internalID: 5118288233296570099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rui_Rea_Clues_10
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 609
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8116a0e7e09114920800000000000000
+      internalID: 2972684779076083992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rui_Rea_Clues_11
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 326
+        width: 381
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42bb5097618ebce50800000000000000
+      internalID: 6830808443054832420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rui_Rea_Clues_12
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 313
+        width: 397
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd1cc9bc03941f300800000000000000
+      internalID: 284088725424357853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rui_Rea_Clues_13
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 0
+        width: 661
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acacbd44cad2e7890800000000000000
+      internalID: -7458473714966082870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rui_Rea_Clues_14
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 349
+        width: 331
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 664bddb3c572a3010800000000000000
+      internalID: 1169290330350924902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rui_Rea_Clues_15
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 359
+        width: 303
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47a8988f99433c9a0800000000000000
+      internalID: -6214065224936748428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rui_Rea_Clues_16
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 327
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7e53b745971173d0800000000000000
+      internalID: -3210759129417949570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rui_Rea_Clues_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 469
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3faeef015b972f700800000000000000
+      internalID: 572653921210657523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rui_Rea_Clues_18
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 0
+        width: 327
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eca06f01aba33a890800000000000000
+      internalID: -7448044787917780274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Rui_Rea_Clues_0: -6828553374051027957
+      Rui_Rea_Clues_1: 5614451035914022951
+      Rui_Rea_Clues_10: 2972684779076083992
+      Rui_Rea_Clues_11: 6830808443054832420
+      Rui_Rea_Clues_12: 284088725424357853
+      Rui_Rea_Clues_13: -7458473714966082870
+      Rui_Rea_Clues_14: 1169290330350924902
+      Rui_Rea_Clues_15: -6214065224936748428
+      Rui_Rea_Clues_16: -3210759129417949570
+      Rui_Rea_Clues_17: 572653921210657523
+      Rui_Rea_Clues_18: -7448044787917780274
+      Rui_Rea_Clues_2: -6817280512718382094
+      Rui_Rea_Clues_3: 6029586747780659430
+      Rui_Rea_Clues_4: -7031949553317828459
+      Rui_Rea_Clues_5: -1547526736511451311
+      Rui_Rea_Clues_6: 866250070065781899
+      Rui_Rea_Clues_7: 1457113290015924697
+      Rui_Rea_Clues_8: 2679480382798049682
+      Rui_Rea_Clues_9: 5118288233296570099
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

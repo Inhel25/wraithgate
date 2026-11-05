@@ -1,0 +1,717 @@
+fileFormatVersion: 2
+guid: 6bfa9a0d0aaee4146b626aca51c3b960
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1350994665469423789
+    second: Atlas_Tunggal_64x64_Grid_6Kolom_0
+  - first:
+      213: -1146169990084194861
+    second: Atlas_Tunggal_64x64_Grid_6Kolom_1
+  - first:
+      213: 9009500221289333643
+    second: Atlas_Tunggal_64x64_Grid_6Kolom_2
+  - first:
+      213: 2595417799562486016
+    second: Atlas_Tunggal_64x64_Grid_6Kolom_3
+  - first:
+      213: 6453806137869016092
+    second: Atlas_Tunggal_64x64_Grid_6Kolom_4
+  - first:
+      213: 6182395616689858547
+    second: Atlas_Tunggal_64x64_Grid_6Kolom_5
+  - first:
+      213: -3775586976056088618
+    second: Atlas_Tunggal_64x64_Grid_6Kolom_6
+  - first:
+      213: -2532586039478718108
+    second: Atlas_Tunggal_64x64_Grid_6Kolom_7
+  - first:
+      213: 3351561806777025224
+    second: Atlas_Tunggal_64x64_Grid_6Kolom_8
+  - first:
+      213: 1654510145033053845
+    second: Atlas_Tunggal_64x64_Grid_6Kolom_9
+  - first:
+      213: 3159917872647106667
+    second: Atlas_Tunggal_64x64_Grid_6Kolom_10
+  - first:
+      213: 5904715239211349630
+    second: Atlas_Tunggal_64x64_Grid_6Kolom_11
+  - first:
+      213: -6032008386936488158
+    second: Atlas_Tunggal_64x64_Grid_6Kolom_12
+  - first:
+      213: 2796368875671096902
+    second: Atlas_Tunggal_64x64_Grid_6Kolom_13
+  - first:
+      213: -1125613744433114288
+    second: Atlas_Tunggal_64x64_Grid_6Kolom_14
+  - first:
+      213: 366327408896392711
+    second: Atlas_Tunggal_64x64_Grid_6Kolom_15
+  - first:
+      213: 8626472592508833037
+    second: Atlas_Tunggal_64x64_Grid_6Kolom_16
+  - first:
+      213: -5702776832641329434
+    second: Atlas_Tunggal_64x64_Grid_6Kolom_17
+  - first:
+      213: -3467156875859636263
+    second: Atlas_Tunggal_64x64_Grid_6Kolom_18
+  - first:
+      213: -208667820654632299
+    second: Atlas_Tunggal_64x64_Grid_6Kolom_19
+  - first:
+      213: 4788512510726871117
+    second: Atlas_Tunggal_64x64_Grid_6Kolom_20
+  - first:
+      213: -5854587047026541203
+    second: Atlas_Tunggal_64x64_Grid_6Kolom_21
+  - first:
+      213: 5899089276314994557
+    second: Atlas_Tunggal_64x64_Grid_6Kolom_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Atlas_Tunggal_64x64_Grid_6Kolom_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 195
+        width: 60
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35f4f37728d404de0800000000000000
+      internalID: -1350994665469423789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Tunggal_64x64_Grid_6Kolom_1
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 195
+        width: 60
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dd81d8777cf710f0800000000000000
+      internalID: -1146169990084194861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Tunggal_64x64_Grid_6Kolom_2
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 195
+        width: 60
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8301c587bc280d70800000000000000
+      internalID: 9009500221289333643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Tunggal_64x64_Grid_6Kolom_3
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 195
+        width: 60
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 001e5a2dcb6c40420800000000000000
+      internalID: 2595417799562486016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Tunggal_64x64_Grid_6Kolom_4
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 195
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1c1be81d76809950800000000000000
+      internalID: 6453806137869016092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Tunggal_64x64_Grid_6Kolom_5
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 195
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f72bb1ce084cc550800000000000000
+      internalID: 6182395616689858547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Tunggal_64x64_Grid_6Kolom_6
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 131
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d7e59136ab6a9bc0800000000000000
+      internalID: -3775586976056088618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Tunggal_64x64_Grid_6Kolom_7
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 131
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 461f1c15a627adcd0800000000000000
+      internalID: -2532586039478718108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Tunggal_64x64_Grid_6Kolom_8
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 131
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c206b7b4b3238e20800000000000000
+      internalID: 3351561806777025224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Tunggal_64x64_Grid_6Kolom_9
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 131
+        width: 38
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 596a9fff53006f610800000000000000
+      internalID: 1654510145033053845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Tunggal_64x64_Grid_6Kolom_10
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 131
+        width: 35
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b60f98e20984adb20800000000000000
+      internalID: 3159917872647106667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Tunggal_64x64_Grid_6Kolom_11
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 131
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e76370db933c1f150800000000000000
+      internalID: 5904715239211349630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Tunggal_64x64_Grid_6Kolom_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 67
+        width: 60
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22f397eb4500a4ca0800000000000000
+      internalID: -6032008386936488158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Tunggal_64x64_Grid_6Kolom_13
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 67
+        width: 60
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64e85573da2bec620800000000000000
+      internalID: 2796368875671096902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Tunggal_64x64_Grid_6Kolom_14
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 67
+        width: 60
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05354c063440160f0800000000000000
+      internalID: -1125613744433114288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Tunggal_64x64_Grid_6Kolom_15
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 67
+        width: 60
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70e32c666d4751500800000000000000
+      internalID: 366327408896392711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Tunggal_64x64_Grid_6Kolom_16
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 67
+        width: 60
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0dc12d2e1367b770800000000000000
+      internalID: 8626472592508833037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Tunggal_64x64_Grid_6Kolom_17
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 67
+        width: 38
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e616117faaabd0b0800000000000000
+      internalID: -5702776832641329434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Tunggal_64x64_Grid_6Kolom_18
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 3
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9df45d1f03f22efc0800000000000000
+      internalID: -3467156875859636263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Tunggal_64x64_Grid_6Kolom_19
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 3
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59263d109b9aa1df0800000000000000
+      internalID: -208667820654632299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Tunggal_64x64_Grid_6Kolom_20
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 3
+        width: 60
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d48936402c6347240800000000000000
+      internalID: 4788512510726871117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Tunggal_64x64_Grid_6Kolom_21
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 3
+        width: 60
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6d3163891450cea0800000000000000
+      internalID: -5854587047026541203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Tunggal_64x64_Grid_6Kolom_22
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 3
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d77421d2176cdd150800000000000000
+      internalID: 5899089276314994557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Atlas_Tunggal_64x64_Grid_6Kolom_0: -1350994665469423789
+      Atlas_Tunggal_64x64_Grid_6Kolom_1: -1146169990084194861
+      Atlas_Tunggal_64x64_Grid_6Kolom_10: 3159917872647106667
+      Atlas_Tunggal_64x64_Grid_6Kolom_11: 5904715239211349630
+      Atlas_Tunggal_64x64_Grid_6Kolom_12: -6032008386936488158
+      Atlas_Tunggal_64x64_Grid_6Kolom_13: 2796368875671096902
+      Atlas_Tunggal_64x64_Grid_6Kolom_14: -1125613744433114288
+      Atlas_Tunggal_64x64_Grid_6Kolom_15: 366327408896392711
+      Atlas_Tunggal_64x64_Grid_6Kolom_16: 8626472592508833037
+      Atlas_Tunggal_64x64_Grid_6Kolom_17: -5702776832641329434
+      Atlas_Tunggal_64x64_Grid_6Kolom_18: -3467156875859636263
+      Atlas_Tunggal_64x64_Grid_6Kolom_19: -208667820654632299
+      Atlas_Tunggal_64x64_Grid_6Kolom_2: 9009500221289333643
+      Atlas_Tunggal_64x64_Grid_6Kolom_20: 4788512510726871117
+      Atlas_Tunggal_64x64_Grid_6Kolom_21: -5854587047026541203
+      Atlas_Tunggal_64x64_Grid_6Kolom_22: 5899089276314994557
+      Atlas_Tunggal_64x64_Grid_6Kolom_3: 2595417799562486016
+      Atlas_Tunggal_64x64_Grid_6Kolom_4: 6453806137869016092
+      Atlas_Tunggal_64x64_Grid_6Kolom_5: 6182395616689858547
+      Atlas_Tunggal_64x64_Grid_6Kolom_6: -3775586976056088618
+      Atlas_Tunggal_64x64_Grid_6Kolom_7: -2532586039478718108
+      Atlas_Tunggal_64x64_Grid_6Kolom_8: 3351561806777025224
+      Atlas_Tunggal_64x64_Grid_6Kolom_9: 1654510145033053845
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

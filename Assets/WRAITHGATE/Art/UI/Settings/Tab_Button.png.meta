@@ -1,0 +1,447 @@
+fileFormatVersion: 2
+guid: 8e940b5e20e58d142a265a1b5f9a8613
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5955017358471022665
+    second: Tab_Button_0
+  - first:
+      213: 7416627893223634264
+    second: Tab_Button_1
+  - first:
+      213: 5711623850482918278
+    second: Tab_Button_2
+  - first:
+      213: 8552125489462115662
+    second: Tab_Button_3
+  - first:
+      213: -3951030707482671509
+    second: Tab_Button_4
+  - first:
+      213: -2269390628628982636
+    second: Tab_Button_5
+  - first:
+      213: -3316815941860268126
+    second: Tab_Button_6
+  - first:
+      213: -1135014157647721248
+    second: Tab_Button_7
+  - first:
+      213: 5984243726947370446
+    second: Tab_Button_8
+  - first:
+      213: -7820190305687149796
+    second: Tab_Button_9
+  - first:
+      213: 6519857381563478591
+    second: Tab_Button_10
+  - first:
+      213: 6373583945384799153
+    second: Tab_Button_11
+  - first:
+      213: -3994169463144447437
+    second: Tab_Button_12
+  - first:
+      213: 1820373641376800451
+    second: Tab_Button_13
+  - first:
+      213: 6760797145138893189
+    second: Tab_Button_14
+  - first:
+      213: -6063314849961427788
+    second: Tab_Button_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tab_Normal
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 786
+        width: 571
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94843fa8cb874a250800000000000000
+      internalID: 5955017358471022665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button_Normal
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 786
+        width: 705
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85539de16c72de660800000000000000
+      internalID: 7416627893223634264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tab_Selected
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 611
+        width: 571
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 683eeaa61a3c34f40800000000000000
+      internalID: 5711623850482918278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button_Selected
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 611
+        width: 705
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4df3f152d04fa670800000000000000
+      internalID: 8552125489462115662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tab_Hover
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 452
+        width: 571
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b66c5d7418e1b29c0800000000000000
+      internalID: -3951030707482671509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button_Hover
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 451
+        width: 706
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49418fb3f318180e0800000000000000
+      internalID: -2269390628628982636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tab_Disabled
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 292
+        width: 571
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a7e010697d48f1d0800000000000000
+      internalID: -3316815941860268126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button_Disabled
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 300
+        width: 706
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ec4e5e13ae9f30f0800000000000000
+      internalID: -1135014157647721248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrow_Left_Normal
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 87
+        width: 161
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec5ce0ab6fd4c0350800000000000000
+      internalID: 5984243726947370446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrow_Left_Selected
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 87
+        width: 160
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c136091a95a197390800000000000000
+      internalID: -7820190305687149796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrow_Right_Normal
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 87
+        width: 160
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f32bc4eaebf2b7a50800000000000000
+      internalID: 6519857381563478591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrow_Right_Selected
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 87
+        width: 160
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bb2bc264d4837850800000000000000
+      internalID: 6373583945384799153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 36c9306f493679e4592afc178fe5e649
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Arrow_Left_Normal: 5984243726947370446
+      Arrow_Left_Selected: -7820190305687149796
+      Arrow_Right_Normal: 6519857381563478591
+      Arrow_Right_Selected: 6373583945384799153
+      Button_Disabled: -1135014157647721248
+      Button_Hover: -2269390628628982636
+      Button_Normal: 7416627893223634264
+      Button_Selected: 8552125489462115662
+      Tab_Button_12: -3994169463144447437
+      Tab_Button_13: 1820373641376800451
+      Tab_Button_14: 6760797145138893189
+      Tab_Button_15: -6063314849961427788
+      Tab_Disabled: -3316815941860268126
+      Tab_Hover: -3951030707482671509
+      Tab_Normal: 5955017358471022665
+      Tab_Selected: 5711623850482918278
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

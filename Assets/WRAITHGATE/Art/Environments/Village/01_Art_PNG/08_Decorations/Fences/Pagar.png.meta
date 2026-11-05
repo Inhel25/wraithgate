@@ -1,0 +1,977 @@
+fileFormatVersion: 2
+guid: 26bb99daccafe404489bac32f9a8cb2d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 686982029049641589
+    second: Pagar_0
+  - first:
+      213: 1586497074638020241
+    second: Pagar_1
+  - first:
+      213: 4427233383486184002
+    second: Pagar_2
+  - first:
+      213: 441692437687963230
+    second: Pagar_3
+  - first:
+      213: 2823647108859905770
+    second: Pagar_4
+  - first:
+      213: -4683169511016009208
+    second: Pagar_5
+  - first:
+      213: 3394273202599352829
+    second: Pagar_6
+  - first:
+      213: 7957399685301613906
+    second: Pagar_7
+  - first:
+      213: 70889889194578644
+    second: Pagar_8
+  - first:
+      213: -428364612246186868
+    second: Pagar_9
+  - first:
+      213: 5982510555883941999
+    second: Pagar_10
+  - first:
+      213: -8627872769445145344
+    second: Pagar_11
+  - first:
+      213: -3759842495104263695
+    second: Pagar_12
+  - first:
+      213: -1759708990650323073
+    second: Pagar_13
+  - first:
+      213: -7002664440594392354
+    second: Pagar_14
+  - first:
+      213: -7759151090010806736
+    second: Pagar_15
+  - first:
+      213: 8100297159097052856
+    second: Pagar_16
+  - first:
+      213: -8652508409312170064
+    second: Pagar_17
+  - first:
+      213: 3444767315253078798
+    second: Pagar_18
+  - first:
+      213: 4578555512287796599
+    second: Pagar_19
+  - first:
+      213: 1912110387391859400
+    second: Pagar_20
+  - first:
+      213: 2285544133909479777
+    second: Pagar_21
+  - first:
+      213: -3115342323266490352
+    second: Pagar_22
+  - first:
+      213: -1677525044957303581
+    second: Pagar_23
+  - first:
+      213: 5930347810644499135
+    second: Pagar_24
+  - first:
+      213: -8482499306748799750
+    second: Pagar_25
+  - first:
+      213: 5197635946399393818
+    second: Pagar_26
+  - first:
+      213: 77408434284541116
+    second: Pagar_27
+  - first:
+      213: 5763018736062613647
+    second: Pagar_28
+  - first:
+      213: -5072784736113383736
+    second: Pagar_29
+  - first:
+      213: 2109919603646595480
+    second: Pagar_30
+  - first:
+      213: -5589108975216120037
+    second: Pagar_31
+  - first:
+      213: -8987006922167287958
+    second: Pagar_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pagar_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 775
+        width: 326
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57ab4900486a88900800000000000000
+      internalID: 686982029049641589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pagar_1
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 655
+        width: 549
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19edefa0fae540610800000000000000
+      internalID: 1586497074638020241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pagar_2
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 981
+        width: 37
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24ad1784e41b07d30800000000000000
+      internalID: 4427233383486184002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pagar_3
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 679
+        width: 225
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5e0e509ee4312600800000000000000
+      internalID: 441692437687963230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pagar_4
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 779
+        width: 330
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae647aec51c9f2720800000000000000
+      internalID: 2823647108859905770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pagar_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 541
+        width: 201
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80273f8642a020fb0800000000000000
+      internalID: -4683169511016009208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pagar_6
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 338
+        width: 186
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df9df8f7e71ea1f20800000000000000
+      internalID: 3394273202599352829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pagar_7
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 511
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 255353a8adc5e6e60800000000000000
+      internalID: 7957399685301613906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pagar_8
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 347
+        width: 184
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d21c978af9dbf000800000000000000
+      internalID: 70889889194578644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pagar_9
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 541
+        width: 103
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c84d7bc97a42e0af0800000000000000
+      internalID: -428364612246186868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pagar_10
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 540
+        width: 150
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f60bc7467a5260350800000000000000
+      internalID: 5982510555883941999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pagar_11
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 347
+        width: 169
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 005d4f9bd63a34880800000000000000
+      internalID: -8627872769445145344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pagar_12
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 540
+        width: 125
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f954e3db2b52dbc0800000000000000
+      internalID: -3759842495104263695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pagar_13
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 257
+        width: 187
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7fe9301ff14497e0800000000000000
+      internalID: -1759708990650323073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pagar_14
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 538
+        width: 137
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eda9c110bc981de90800000000000000
+      internalID: -7002664440594392354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pagar_15
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 539
+        width: 75
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03622518135f15490800000000000000
+      internalID: -7759151090010806736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pagar_16
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 563
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bee51759590a6070800000000000000
+      internalID: 8100297159097052856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pagar_17
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 309
+        width: 263
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bf2ed6d17d1ce780800000000000000
+      internalID: -8652508409312170064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pagar_18
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 538
+        width: 107
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0b298f3f954ecf20800000000000000
+      internalID: 3444767315253078798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pagar_19
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 517
+        width: 75
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77d125eeafb4a8f30800000000000000
+      internalID: 4578555512287796599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pagar_20
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 321
+        width: 202
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ca83db344e298a10800000000000000
+      internalID: 1912110387391859400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pagar_21
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 539
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 161072cc742e7bf10800000000000000
+      internalID: 2285544133909479777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pagar_22
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 309
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 010f5fba9a414c4d0800000000000000
+      internalID: -3115342323266490352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pagar_23
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 273
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ecaf790cdb38b8e0800000000000000
+      internalID: -1677525044957303581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pagar_24
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 309
+        width: 203
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fba1bf7d9e3dc4250800000000000000
+      internalID: 5930347810644499135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pagar_25
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 23
+        width: 161
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af49dbd92db184a80800000000000000
+      internalID: -8482499306748799750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pagar_26
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 38
+        width: 189
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a18efe0ea56b12840800000000000000
+      internalID: 5197635946399393818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pagar_27
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 23
+        width: 195
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb436249f82031100800000000000000
+      internalID: 77408434284541116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pagar_28
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 69
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f88cee4b10b5aff40800000000000000
+      internalID: 5763018736062613647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pagar_29
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 0
+        width: 398
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c620f5c829d999b0800000000000000
+      internalID: -5072784736113383736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pagar_30
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 25
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8910dff53b0f74d10800000000000000
+      internalID: 2109919603646595480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pagar_31
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 23
+        width: 268
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1fab49dffe7f62b0800000000000000
+      internalID: -5589108975216120037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pagar_32
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 23
+        width: 125
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6ffd3ac1dcb74380800000000000000
+      internalID: -8987006922167287958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Pagar_0: 686982029049641589
+      Pagar_1: 1586497074638020241
+      Pagar_10: 5982510555883941999
+      Pagar_11: -8627872769445145344
+      Pagar_12: -3759842495104263695
+      Pagar_13: -1759708990650323073
+      Pagar_14: -7002664440594392354
+      Pagar_15: -7759151090010806736
+      Pagar_16: 8100297159097052856
+      Pagar_17: -8652508409312170064
+      Pagar_18: 3444767315253078798
+      Pagar_19: 4578555512287796599
+      Pagar_2: 4427233383486184002
+      Pagar_20: 1912110387391859400
+      Pagar_21: 2285544133909479777
+      Pagar_22: -3115342323266490352
+      Pagar_23: -1677525044957303581
+      Pagar_24: 5930347810644499135
+      Pagar_25: -8482499306748799750
+      Pagar_26: 5197635946399393818
+      Pagar_27: 77408434284541116
+      Pagar_28: 5763018736062613647
+      Pagar_29: -5072784736113383736
+      Pagar_3: 441692437687963230
+      Pagar_30: 2109919603646595480
+      Pagar_31: -5589108975216120037
+      Pagar_32: -8987006922167287958
+      Pagar_4: 2823647108859905770
+      Pagar_5: -4683169511016009208
+      Pagar_6: 3394273202599352829
+      Pagar_7: 7957399685301613906
+      Pagar_8: 70889889194578644
+      Pagar_9: -428364612246186868
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,674 @@
+fileFormatVersion: 2
+guid: c148ca380d9201b459ba2723167b9572
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5694474640441541083
+    second: Toggle_0
+  - first:
+      213: -7354518714887408360
+    second: Toggle_1
+  - first:
+      213: -4856176645399820482
+    second: Toggle_2
+  - first:
+      213: 9054674518653593184
+    second: Toggle_3
+  - first:
+      213: 7273486620043349540
+    second: Toggle_4
+  - first:
+      213: -3297743951682615191
+    second: Toggle_5
+  - first:
+      213: 8565223178440409990
+    second: Toggle_6
+  - first:
+      213: 1319519747133215259
+    second: Toggle_7
+  - first:
+      213: 4491618287060357036
+    second: Toggle_8
+  - first:
+      213: -4464670911441805093
+    second: Toggle_9
+  - first:
+      213: 4639903824539539347
+    second: Toggle_10
+  - first:
+      213: -1871871360941742785
+    second: Toggle_11
+  - first:
+      213: 5286718769350956923
+    second: Toggle_12
+  - first:
+      213: 2136234489297445207
+    second: Toggle_13
+  - first:
+      213: -1331384232665482769
+    second: Toggle_14
+  - first:
+      213: 1412863673462248370
+    second: Toggle_15
+  - first:
+      213: 124111310884539687
+    second: Toggle_16
+  - first:
+      213: 6271820854033266158
+    second: Toggle_17
+  - first:
+      213: 2673949565716629448
+    second: Toggle_18
+  - first:
+      213: 7002918562517626524
+    second: Toggle_19
+  - first:
+      213: -8406671416304767213
+    second: Toggle_20
+  - first:
+      213: 8648650417253851547
+    second: Toggle_21
+  - first:
+      213: -7485227076843628678
+    second: Toggle_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Toggle_OFF_Normal
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 580
+        width: 352
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd10dfdc386d60f40800000000000000
+      internalID: 5694474640441541083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toggle_ON_Normal
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 579
+        width: 370
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8157c29d1308fe990800000000000000
+      internalID: -7354518714887408360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toggle_OFF_Highlighted
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 581
+        width: 356
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e374564f1156b9cb0800000000000000
+      internalID: -4856176645399820482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toggle_ON_Highlighted
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 581
+        width: 349
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 066e021408aa8ad70800000000000000
+      internalID: 9054674518653593184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toggle_OFF_Pressed
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 335
+        width: 350
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42e8d3a5b8d90f460800000000000000
+      internalID: 7273486620043349540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toggle_ON_Pressed
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 332
+        width: 371
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 968c3cf195f0c32d0800000000000000
+      internalID: -3297743951682615191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toggle_OFF_Disabled
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 334
+        width: 349
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68302eca919cdd670800000000000000
+      internalID: 8565223178440409990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toggle_ON_Disabled
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 330
+        width: 347
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b121df90830ef4210800000000000000
+      internalID: 1319519747133215259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toggle_Small_OFF_Normal
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 143
+        width: 194
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caf81e2d80f655e30800000000000000
+      internalID: 4491618287060357036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toggle_Small_ON_Normal
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 143
+        width: 207
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd0ed7cf57d4a02c0800000000000000
+      internalID: -4464670911441805093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toggle_Small_OFF_Disabled
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 145
+        width: 195
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 397d7a5f1ff346040800000000000000
+      internalID: 4639903824539539347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toggle_Small_ON_Disabled
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 145
+        width: 200
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3527d13ae6c506e0800000000000000
+      internalID: -1871871360941742785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toggle_12
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 62
+        width: 11
+        height: 219
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b77dd82e5b23e5940800000000000000
+      internalID: 5286718769350956923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkbox_OFF_Normal
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 181
+        width: 121
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 751238323fd65ad10800000000000000
+      internalID: 2136234489297445207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkbox_ON_Normal
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 182
+        width: 130
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe9fa682819f58de0800000000000000
+      internalID: -1331384232665482769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkbox_OFF_Disabled
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 184
+        width: 121
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b355cc76008b9310800000000000000
+      internalID: 1412863673462248370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkbox_ON_Disabled
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 186
+        width: 125
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72d81e5649ee8b100800000000000000
+      internalID: 124111310884539687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Radio_OFF_Normal
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 55
+        width: 103
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9e2add545d5f2160800000000000000
+      internalID: 7002918562517626524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Radio_ON_Normal
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 53
+        width: 107
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31f69b723e0855b80800000000000000
+      internalID: -8406671416304767213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Radio_OFF_Disabled
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 52
+        width: 105
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9123f26bbd260870800000000000000
+      internalID: 8648650417253851547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Radio_ON_Disabled
+      rect:
+        serializedVersion: 2
+        x: 1573
+        y: 51
+        width: 108
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a77999dc1a12f1890800000000000000
+      internalID: -7485227076843628678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f79ae258cf747344f930bd0e9c19e5aa
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Checkbox_OFF_Disabled: 1412863673462248370
+      Checkbox_OFF_Normal: 2136234489297445207
+      Checkbox_ON_Disabled: 124111310884539687
+      Checkbox_ON_Normal: -1331384232665482769
+      Radio_OFF_Disabled: 8648650417253851547
+      Radio_OFF_Normal: 7002918562517626524
+      Radio_ON_Disabled: -7485227076843628678
+      Radio_ON_Normal: -8406671416304767213
+      Toggle_12: 5286718769350956923
+      Toggle_17: 6271820854033266158
+      Toggle_18: 2673949565716629448
+      Toggle_OFF_Disabled: 8565223178440409990
+      Toggle_OFF_Highlighted: -4856176645399820482
+      Toggle_OFF_Normal: 5694474640441541083
+      Toggle_OFF_Pressed: 7273486620043349540
+      Toggle_ON_Disabled: 1319519747133215259
+      Toggle_ON_Highlighted: 9054674518653593184
+      Toggle_ON_Normal: -7354518714887408360
+      Toggle_ON_Pressed: -3297743951682615191
+      Toggle_Small_OFF_Disabled: 4639903824539539347
+      Toggle_Small_OFF_Normal: 4491618287060357036
+      Toggle_Small_ON_Disabled: -1871871360941742785
+      Toggle_Small_ON_Normal: -4464670911441805093
+      a: 2136234489297445207
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

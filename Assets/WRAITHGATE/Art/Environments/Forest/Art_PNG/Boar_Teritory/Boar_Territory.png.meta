@@ -1,0 +1,1237 @@
+fileFormatVersion: 2
+guid: a2bee91e08bd55f4dab24540ba9932b3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4634534861089490182
+    second: Boar_Territory_0
+  - first:
+      213: 7933193020287320345
+    second: Boar_Territory_1
+  - first:
+      213: -2773718599294107784
+    second: Boar_Territory_2
+  - first:
+      213: -3389560695509241100
+    second: Boar_Territory_3
+  - first:
+      213: -493951420706471459
+    second: Boar_Territory_4
+  - first:
+      213: 3093589347759187236
+    second: Boar_Territory_5
+  - first:
+      213: -5320345209688315437
+    second: Boar_Territory_6
+  - first:
+      213: -8584014996821445353
+    second: Boar_Territory_7
+  - first:
+      213: 4391715938748595669
+    second: Boar_Territory_8
+  - first:
+      213: 5762726765329353638
+    second: Boar_Territory_9
+  - first:
+      213: -5944193926240699003
+    second: Boar_Territory_10
+  - first:
+      213: 8064542300499078042
+    second: Boar_Territory_11
+  - first:
+      213: 1261155071333195213
+    second: Boar_Territory_12
+  - first:
+      213: 2595076305080121690
+    second: Boar_Territory_13
+  - first:
+      213: -920208912962398968
+    second: Boar_Territory_14
+  - first:
+      213: -6569597320893147819
+    second: Boar_Territory_15
+  - first:
+      213: 3414364633204078574
+    second: Boar_Territory_16
+  - first:
+      213: 2349344640940761303
+    second: Boar_Territory_17
+  - first:
+      213: -985971021037878729
+    second: Boar_Territory_18
+  - first:
+      213: -2930859009728045249
+    second: Boar_Territory_19
+  - first:
+      213: 5761795635123298249
+    second: Boar_Territory_20
+  - first:
+      213: 2493599027923441131
+    second: Boar_Territory_21
+  - first:
+      213: 8101921310334697988
+    second: Boar_Territory_22
+  - first:
+      213: 5378935405246475950
+    second: Boar_Territory_23
+  - first:
+      213: 8112688861445605124
+    second: Boar_Territory_24
+  - first:
+      213: -7039059676365257782
+    second: Boar_Territory_25
+  - first:
+      213: 1329716956791074762
+    second: Boar_Territory_26
+  - first:
+      213: 5811219470522285766
+    second: Boar_Territory_27
+  - first:
+      213: 5211538239602174548
+    second: Boar_Territory_28
+  - first:
+      213: 3073254568923715456
+    second: Boar_Territory_29
+  - first:
+      213: 5326094584509205291
+    second: Boar_Territory_30
+  - first:
+      213: -5674240745878939128
+    second: Boar_Territory_31
+  - first:
+      213: 733976676257465936
+    second: Boar_Territory_32
+  - first:
+      213: -7328782759097974639
+    second: Boar_Territory_33
+  - first:
+      213: -7921369047284780469
+    second: Boar_Territory_34
+  - first:
+      213: 1732817651623716554
+    second: Boar_Territory_35
+  - first:
+      213: -4426876379625336331
+    second: Boar_Territory_36
+  - first:
+      213: 5339605929816587379
+    second: Boar_Territory_37
+  - first:
+      213: -7042702360887605897
+    second: Boar_Territory_38
+  - first:
+      213: 3637610971388238747
+    second: Boar_Territory_39
+  - first:
+      213: -8701582758547806092
+    second: Boar_Territory_40
+  - first:
+      213: -912878556096951698
+    second: Boar_Territory_41
+  - first:
+      213: 2937791285172716898
+    second: Boar_Territory_42
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Boar_Territory_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 997
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afab8914913deafb0800000000000000
+      internalID: -4634534861089490182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boar_Territory_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 615
+        width: 609
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91185d4250d581e60800000000000000
+      internalID: 7933193020287320345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boar_Territory_2
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 815
+        width: 207
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87f3e2631a5c189d0800000000000000
+      internalID: -2773718599294107784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boar_Territory_3
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 941
+        width: 77
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f2bb8f818cd5f0d0800000000000000
+      internalID: -3389560695509241100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boar_Territory_4
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 595
+        width: 600
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd1cd78ccc12529f0800000000000000
+      internalID: -493951420706471459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boar_Territory_5
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 991
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4256e1a0f13aeea20800000000000000
+      internalID: 3093589347759187236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boar_Territory_6
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 983
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d9a31e58365a26b0800000000000000
+      internalID: -5320345209688315437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boar_Territory_7
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 927
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 715f4d727d37fd880800000000000000
+      internalID: -8584014996821445353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boar_Territory_8
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 919
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ddf783c06282fc30800000000000000
+      internalID: 4391715938748595669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boar_Territory_9
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 931
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ab8719f57159ff40800000000000000
+      internalID: 5762726765329353638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boar_Territory_10
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 615
+        width: 207
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58d73662e1bf18da0800000000000000
+      internalID: -5944193926240699003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boar_Territory_11
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 763
+        width: 147
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9beb599e720bef60800000000000000
+      internalID: 8064542300499078042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boar_Territory_12
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 737
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd5f710bd5808110800000000000000
+      internalID: 1261155071333195213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boar_Territory_13
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 623
+        width: 129
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5975517620930420800000000000000
+      internalID: 2595076305080121690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boar_Territory_14
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 635
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8055abf7ed2ca33f0800000000000000
+      internalID: -920208912962398968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boar_Territory_15
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 641
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5555eca3b0a14d4a0800000000000000
+      internalID: -6569597320893147819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boar_Territory_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 381
+        height: 634
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee739c73b82426f20800000000000000
+      internalID: 3414364633204078574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boar_Territory_17
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 0
+        width: 1177
+        height: 617
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d0ed3ae08c8a9020800000000000000
+      internalID: 2349344640940761303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boar_Territory_18
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 613
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 732453c84902152f0800000000000000
+      internalID: -985971021037878729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boar_Territory_19
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 247
+        width: 391
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3f186e424f7357d0800000000000000
+      internalID: -2930859009728045249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boar_Territory_20
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 602
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cf9be35a9206ff40800000000000000
+      internalID: 5761795635123298249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boar_Territory_21
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 197
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be5d2afaa1b0b9220800000000000000
+      internalID: 2493599027923441131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boar_Territory_22
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 93
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 402caa4818ecf6070800000000000000
+      internalID: 8101921310334697988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boar_Territory_23
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 135
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaeec739041d5aa40800000000000000
+      internalID: 5378935405246475950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boar_Territory_24
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 123
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 407cbbf598f069070800000000000000
+      internalID: 8112688861445605124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boar_Territory_25
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 113
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac30975d48c305e90800000000000000
+      internalID: -7039059676365257782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boar_Territory_26
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 113
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acf685de68a147210800000000000000
+      internalID: 1329716956791074762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boar_Territory_27
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 117
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ce705cb15995a050800000000000000
+      internalID: 5811219470522285766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boar_Territory_28
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 83
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45a2ad0ca6a135840800000000000000
+      internalID: 5211538239602174548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boar_Territory_29
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 85
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0875b056fb466aa20800000000000000
+      internalID: 3073254568923715456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boar_Territory_30
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 53
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2b8dc54ec61ae940800000000000000
+      internalID: 5326094584509205291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boar_Territory_31
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 65
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80a96d3ea1c0141b0800000000000000
+      internalID: -5674240745878939128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boar_Territory_32
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 55
+        width: 73
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0568fb5f5eb9f2a00800000000000000
+      internalID: 733976676257465936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boar_Territory_33
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 49
+        width: 53
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19045fff8eeea4a90800000000000000
+      internalID: -7328782759097974639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boar_Territory_34
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 73
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b42f0d912d4a11290800000000000000
+      internalID: -7921369047284780469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boar_Territory_35
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 67
+        width: 9
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac6ee8929743c0810800000000000000
+      internalID: 1732817651623716554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boar_Territory_36
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 85
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f15dd723639092c0800000000000000
+      internalID: -4426876379625336331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boar_Territory_37
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 67
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37c794f7d471a1a40800000000000000
+      internalID: 5339605929816587379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boar_Territory_38
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 61
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7754d70448b434e90800000000000000
+      internalID: -7042702360887605897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boar_Territory_39
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 62
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9bd8a4d7e36b7230800000000000000
+      internalID: 3637610971388238747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boar_Territory_40
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 39
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47828158594cd3780800000000000000
+      internalID: -8701582758547806092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boar_Territory_41
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 63
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6a05c43acdc453f0800000000000000
+      internalID: -912878556096951698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boar_Territory_42
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 49
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26545f8db9125c820800000000000000
+      internalID: 2937791285172716898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Boar_Territory_0: -4634534861089490182
+      Boar_Territory_1: 7933193020287320345
+      Boar_Territory_10: -5944193926240699003
+      Boar_Territory_11: 8064542300499078042
+      Boar_Territory_12: 1261155071333195213
+      Boar_Territory_13: 2595076305080121690
+      Boar_Territory_14: -920208912962398968
+      Boar_Territory_15: -6569597320893147819
+      Boar_Territory_16: 3414364633204078574
+      Boar_Territory_17: 2349344640940761303
+      Boar_Territory_18: -985971021037878729
+      Boar_Territory_19: -2930859009728045249
+      Boar_Territory_2: -2773718599294107784
+      Boar_Territory_20: 5761795635123298249
+      Boar_Territory_21: 2493599027923441131
+      Boar_Territory_22: 8101921310334697988
+      Boar_Territory_23: 5378935405246475950
+      Boar_Territory_24: 8112688861445605124
+      Boar_Territory_25: -7039059676365257782
+      Boar_Territory_26: 1329716956791074762
+      Boar_Territory_27: 5811219470522285766
+      Boar_Territory_28: 5211538239602174548
+      Boar_Territory_29: 3073254568923715456
+      Boar_Territory_3: -3389560695509241100
+      Boar_Territory_30: 5326094584509205291
+      Boar_Territory_31: -5674240745878939128
+      Boar_Territory_32: 733976676257465936
+      Boar_Territory_33: -7328782759097974639
+      Boar_Territory_34: -7921369047284780469
+      Boar_Territory_35: 1732817651623716554
+      Boar_Territory_36: -4426876379625336331
+      Boar_Territory_37: 5339605929816587379
+      Boar_Territory_38: -7042702360887605897
+      Boar_Territory_39: 3637610971388238747
+      Boar_Territory_4: -493951420706471459
+      Boar_Territory_40: -8701582758547806092
+      Boar_Territory_41: -912878556096951698
+      Boar_Territory_42: 2937791285172716898
+      Boar_Territory_5: 3093589347759187236
+      Boar_Territory_6: -5320345209688315437
+      Boar_Territory_7: -8584014996821445353
+      Boar_Territory_8: 4391715938748595669
+      Boar_Territory_9: 5762726765329353638
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

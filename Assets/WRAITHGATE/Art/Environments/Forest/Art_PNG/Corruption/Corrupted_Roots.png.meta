@@ -1,0 +1,1757 @@
+fileFormatVersion: 2
+guid: 5a25fc4cefc596748ac56122fe736c81
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1112506399475207112
+    second: Corrupted_Roots_0
+  - first:
+      213: -1117252759876392227
+    second: Corrupted_Roots_1
+  - first:
+      213: 5328089326941995803
+    second: Corrupted_Roots_2
+  - first:
+      213: -543771594944456740
+    second: Corrupted_Roots_3
+  - first:
+      213: -8102124730386977709
+    second: Corrupted_Roots_4
+  - first:
+      213: -1978909582763604508
+    second: Corrupted_Roots_5
+  - first:
+      213: -4157491283762357103
+    second: Corrupted_Roots_6
+  - first:
+      213: -6813459201434114717
+    second: Corrupted_Roots_7
+  - first:
+      213: -4705674113620357918
+    second: Corrupted_Roots_8
+  - first:
+      213: 4877363652515282303
+    second: Corrupted_Roots_9
+  - first:
+      213: 7832339970323062655
+    second: Corrupted_Roots_10
+  - first:
+      213: -8760758429666110644
+    second: Corrupted_Roots_11
+  - first:
+      213: -968428218031290599
+    second: Corrupted_Roots_12
+  - first:
+      213: -3301051580280853670
+    second: Corrupted_Roots_13
+  - first:
+      213: -3379713269236888154
+    second: Corrupted_Roots_14
+  - first:
+      213: 3108230690601127664
+    second: Corrupted_Roots_15
+  - first:
+      213: -3833986357115855627
+    second: Corrupted_Roots_16
+  - first:
+      213: -660139877823688199
+    second: Corrupted_Roots_17
+  - first:
+      213: 3287238818936007018
+    second: Corrupted_Roots_18
+  - first:
+      213: -7126188100076163782
+    second: Corrupted_Roots_19
+  - first:
+      213: -4046375087422642444
+    second: Corrupted_Roots_20
+  - first:
+      213: 6641871662477660722
+    second: Corrupted_Roots_21
+  - first:
+      213: 1622837632834008927
+    second: Corrupted_Roots_22
+  - first:
+      213: 2863244076625557852
+    second: Corrupted_Roots_23
+  - first:
+      213: -9115514007534725400
+    second: Corrupted_Roots_24
+  - first:
+      213: 4695095886294877386
+    second: Corrupted_Roots_25
+  - first:
+      213: -4154881135670655483
+    second: Corrupted_Roots_26
+  - first:
+      213: -2764642713685916791
+    second: Corrupted_Roots_27
+  - first:
+      213: -3801983917553938112
+    second: Corrupted_Roots_28
+  - first:
+      213: 5537927584627333775
+    second: Corrupted_Roots_29
+  - first:
+      213: -1856563070511439994
+    second: Corrupted_Roots_30
+  - first:
+      213: 4737852327002840700
+    second: Corrupted_Roots_31
+  - first:
+      213: 6236542525557713831
+    second: Corrupted_Roots_32
+  - first:
+      213: -4085669515584806415
+    second: Corrupted_Roots_33
+  - first:
+      213: -7952632469974899015
+    second: Corrupted_Roots_34
+  - first:
+      213: 205239395717923210
+    second: Corrupted_Roots_35
+  - first:
+      213: -9066569719317022543
+    second: Corrupted_Roots_36
+  - first:
+      213: 4811391959467992644
+    second: Corrupted_Roots_37
+  - first:
+      213: 2313941593304573056
+    second: Corrupted_Roots_38
+  - first:
+      213: -2020529797641206774
+    second: Corrupted_Roots_39
+  - first:
+      213: 6364101204316056739
+    second: Corrupted_Roots_40
+  - first:
+      213: -5427740122680667221
+    second: Corrupted_Roots_41
+  - first:
+      213: -8146388594505021899
+    second: Corrupted_Roots_42
+  - first:
+      213: 1996373006978759093
+    second: Corrupted_Roots_43
+  - first:
+      213: 1449880948543533412
+    second: Corrupted_Roots_44
+  - first:
+      213: 7862873110643443110
+    second: Corrupted_Roots_45
+  - first:
+      213: -2269558476562928982
+    second: Corrupted_Roots_46
+  - first:
+      213: -5453217945780632685
+    second: Corrupted_Roots_47
+  - first:
+      213: -7394998486920361990
+    second: Corrupted_Roots_48
+  - first:
+      213: 1417079288858471227
+    second: Corrupted_Roots_49
+  - first:
+      213: 4362986152109982634
+    second: Corrupted_Roots_50
+  - first:
+      213: 6541247794693186218
+    second: Corrupted_Roots_51
+  - first:
+      213: 7066693051418953729
+    second: Corrupted_Roots_52
+  - first:
+      213: 8820759114429834665
+    second: Corrupted_Roots_53
+  - first:
+      213: -7854872407150275833
+    second: Corrupted_Roots_54
+  - first:
+      213: 5470290235294974546
+    second: Corrupted_Roots_55
+  - first:
+      213: 4669565820866227670
+    second: Corrupted_Roots_56
+  - first:
+      213: -8723995135172156103
+    second: Corrupted_Roots_57
+  - first:
+      213: 4107131685111975432
+    second: Corrupted_Roots_58
+  - first:
+      213: -7282586181854012012
+    second: Corrupted_Roots_59
+  - first:
+      213: 3276389298337058114
+    second: Corrupted_Roots_60
+  - first:
+      213: 1846517814838157692
+    second: Corrupted_Roots_61
+  - first:
+      213: -6321770626267384897
+    second: Corrupted_Roots_62
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Corrupted_Roots_0
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 933
+        width: 115
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8347ee0f2559f80f0800000000000000
+      internalID: -1112506399475207112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corrupted_Roots_1
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 929
+        width: 43
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dda2e3bc888be70f0800000000000000
+      internalID: -1117252759876392227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corrupted_Roots_2
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 981
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b138def630d21f940800000000000000
+      internalID: 5328089326941995803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corrupted_Roots_3
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 975
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd7536c8d922478f0800000000000000
+      internalID: -543771594944456740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corrupted_Roots_4
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 951
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35c606f0c787f8f80800000000000000
+      internalID: -8102124730386977709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corrupted_Roots_5
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 963
+        width: 115
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e542cc18308984e0800000000000000
+      internalID: -1978909582763604508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corrupted_Roots_6
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 975
+        width: 39
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19cdf8a64bf9d46c0800000000000000
+      internalID: -4157491283762357103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corrupted_Roots_7
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 979
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36527ee94fab171a0800000000000000
+      internalID: -6813459201434114717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corrupted_Roots_8
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 943
+        width: 89
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ec48ec435612beb0800000000000000
+      internalID: -4705674113620357918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corrupted_Roots_9
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 974
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7d339c8660efa340800000000000000
+      internalID: 4877363652515282303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corrupted_Roots_10
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 583
+        width: 389
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7f133b94bf02bc60800000000000000
+      internalID: 7832339970323062655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corrupted_Roots_11
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 993
+        width: 41
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c431ebcef988b6680800000000000000
+      internalID: -8760758429666110644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corrupted_Roots_12
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 245
+        width: 553
+        height: 779
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 917c7c9aaa37f82f0800000000000000
+      internalID: -968428218031290599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corrupted_Roots_13
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 983
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5b2e14d31f4032d0800000000000000
+      internalID: -3301051580280853670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corrupted_Roots_14
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 971
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ad067820b8d811d0800000000000000
+      internalID: -3379713269236888154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corrupted_Roots_15
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 915
+        width: 39
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fe4f315857a22b20800000000000000
+      internalID: 3108230690601127664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corrupted_Roots_16
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 963
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fc5a66b8b1facac0800000000000000
+      internalID: -3833986357115855627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corrupted_Roots_17
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 935
+        width: 49
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f1df385746b6d6f0800000000000000
+      internalID: -660139877823688199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corrupted_Roots_18
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 911
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a692e8e0a4e9e9d20800000000000000
+      internalID: 3287238818936007018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corrupted_Roots_19
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 959
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3d285cdda1ba1d90800000000000000
+      internalID: -7126188100076163782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corrupted_Roots_20
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 951
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f6ee2eeb4368d7c0800000000000000
+      internalID: -4046375087422642444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corrupted_Roots_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 889
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 232d6bd361bac2c50800000000000000
+      internalID: 6641871662477660722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corrupted_Roots_22
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 907
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f57f4399a3a758610800000000000000
+      internalID: 1622837632834008927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corrupted_Roots_23
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 907
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c59f18c41594cb720800000000000000
+      internalID: 2863244076625557852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corrupted_Roots_24
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 583
+        width: 285
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e69bc36e403f7180800000000000000
+      internalID: -9115514007534725400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corrupted_Roots_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 582
+        width: 289
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac4010935d4582140800000000000000
+      internalID: 4695095886294877386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corrupted_Roots_26
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 883
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5060160ee95e656c0800000000000000
+      internalID: -4154881135670655483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corrupted_Roots_27
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 642
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98301ef791402a9d0800000000000000
+      internalID: -2764642713685916791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corrupted_Roots_28
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 659
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 041137055c3ac3bc0800000000000000
+      internalID: -3801983917553938112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corrupted_Roots_29
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 663
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8a9c890ccbaadc40800000000000000
+      internalID: 5537927584627333775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corrupted_Roots_30
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 634
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68f9e0f49b92c36e0800000000000000
+      internalID: -1856563070511439994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corrupted_Roots_31
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 631
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7e1345d69b30c140800000000000000
+      internalID: 4737852327002840700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corrupted_Roots_32
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 625
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ab2c766266ac8650800000000000000
+      internalID: 6236542525557713831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corrupted_Roots_33
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 619
+        width: 13
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f1ecede839cc47c0800000000000000
+      internalID: -4085669515584806415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corrupted_Roots_34
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 628
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b6a8e547e292a190800000000000000
+      internalID: -7952632469974899015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corrupted_Roots_35
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 621
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a81ceab942829d200800000000000000
+      internalID: 205239395717923210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corrupted_Roots_36
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 641
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b8bbc480e21d2280800000000000000
+      internalID: -9066569719317022543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corrupted_Roots_37
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 623
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 446a24bce7f75c240800000000000000
+      internalID: 4811391959467992644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corrupted_Roots_38
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 257
+        width: 235
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 084abeb8e95cc1020800000000000000
+      internalID: 2313941593304573056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corrupted_Roots_39
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 623
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a040181bad2a5f3e0800000000000000
+      internalID: -2020529797641206774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corrupted_Roots_40
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 615
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ace4eda354d15850800000000000000
+      internalID: 6364101204316056739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corrupted_Roots_41
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 587
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba3db76ad1bcca4b0800000000000000
+      internalID: -5427740122680667221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corrupted_Roots_42
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 607
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5360c361cb632fe80800000000000000
+      internalID: -8146388594505021899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corrupted_Roots_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 291
+        width: 739
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b9b5203caa84bb10800000000000000
+      internalID: 1996373006978759093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corrupted_Roots_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 291
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4613b887a030f1410800000000000000
+      internalID: 1449880948543533412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corrupted_Roots_45
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 369
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a58fd15f698e1d60800000000000000
+      internalID: 7862873110643443110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corrupted_Roots_46
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 15
+        width: 311
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaa6d771798e080e0800000000000000
+      internalID: -2269558476562928982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corrupted_Roots_47
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 361
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 393c5f2bb274254b0800000000000000
+      internalID: -5453217945780632685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corrupted_Roots_48
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 345
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af78f887e00bf5990800000000000000
+      internalID: -7394998486920361990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corrupted_Roots_49
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 327
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3be8feea1a7aa310800000000000000
+      internalID: 1417079288858471227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corrupted_Roots_50
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 303
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa3c67c0ac07c8c30800000000000000
+      internalID: 4362986152109982634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corrupted_Roots_51
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 309
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa2ae76563e27ca50800000000000000
+      internalID: 6541247794693186218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corrupted_Roots_52
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 311
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1084c8aa3efe11260800000000000000
+      internalID: 7066693051418953729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corrupted_Roots_53
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 15
+        width: 261
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a521e02ea1a96a70800000000000000
+      internalID: 8820759114429834665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corrupted_Roots_54
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 135
+        width: 141
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7035acf9923edf290800000000000000
+      internalID: -7854872407150275833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corrupted_Roots_55
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 239
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2528b057cff5aeb40800000000000000
+      internalID: 5470290235294974546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corrupted_Roots_56
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 119
+        width: 185
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dd6908af51adc040800000000000000
+      internalID: 4669565820866227670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corrupted_Roots_57
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 103
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 935e3d175a42ee680800000000000000
+      internalID: -8723995135172156103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corrupted_Roots_58
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 31
+        width: 107
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80ec9d0d1867ff830800000000000000
+      internalID: 4107131685111975432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corrupted_Roots_59
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 21
+        width: 159
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49d5c60d37e0fea90800000000000000
+      internalID: -7282586181854012012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corrupted_Roots_60
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 35
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24d854135b2187d20800000000000000
+      internalID: 3276389298337058114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corrupted_Roots_61
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 15
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c71ebd85b2620a910800000000000000
+      internalID: 1846517814838157692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corrupted_Roots_62
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 15
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb375dd0c1f8448a0800000000000000
+      internalID: -6321770626267384897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Corrupted_Roots_0: -1112506399475207112
+      Corrupted_Roots_1: -1117252759876392227
+      Corrupted_Roots_10: 7832339970323062655
+      Corrupted_Roots_11: -8760758429666110644
+      Corrupted_Roots_12: -968428218031290599
+      Corrupted_Roots_13: -3301051580280853670
+      Corrupted_Roots_14: -3379713269236888154
+      Corrupted_Roots_15: 3108230690601127664
+      Corrupted_Roots_16: -3833986357115855627
+      Corrupted_Roots_17: -660139877823688199
+      Corrupted_Roots_18: 3287238818936007018
+      Corrupted_Roots_19: -7126188100076163782
+      Corrupted_Roots_2: 5328089326941995803
+      Corrupted_Roots_20: -4046375087422642444
+      Corrupted_Roots_21: 6641871662477660722
+      Corrupted_Roots_22: 1622837632834008927
+      Corrupted_Roots_23: 2863244076625557852
+      Corrupted_Roots_24: -9115514007534725400
+      Corrupted_Roots_25: 4695095886294877386
+      Corrupted_Roots_26: -4154881135670655483
+      Corrupted_Roots_27: -2764642713685916791
+      Corrupted_Roots_28: -3801983917553938112
+      Corrupted_Roots_29: 5537927584627333775
+      Corrupted_Roots_3: -543771594944456740
+      Corrupted_Roots_30: -1856563070511439994
+      Corrupted_Roots_31: 4737852327002840700
+      Corrupted_Roots_32: 6236542525557713831
+      Corrupted_Roots_33: -4085669515584806415
+      Corrupted_Roots_34: -7952632469974899015
+      Corrupted_Roots_35: 205239395717923210
+      Corrupted_Roots_36: -9066569719317022543
+      Corrupted_Roots_37: 4811391959467992644
+      Corrupted_Roots_38: 2313941593304573056
+      Corrupted_Roots_39: -2020529797641206774
+      Corrupted_Roots_4: -8102124730386977709
+      Corrupted_Roots_40: 6364101204316056739
+      Corrupted_Roots_41: -5427740122680667221
+      Corrupted_Roots_42: -8146388594505021899
+      Corrupted_Roots_43: 1996373006978759093
+      Corrupted_Roots_44: 1449880948543533412
+      Corrupted_Roots_45: 7862873110643443110
+      Corrupted_Roots_46: -2269558476562928982
+      Corrupted_Roots_47: -5453217945780632685
+      Corrupted_Roots_48: -7394998486920361990
+      Corrupted_Roots_49: 1417079288858471227
+      Corrupted_Roots_5: -1978909582763604508
+      Corrupted_Roots_50: 4362986152109982634
+      Corrupted_Roots_51: 6541247794693186218
+      Corrupted_Roots_52: 7066693051418953729
+      Corrupted_Roots_53: 8820759114429834665
+      Corrupted_Roots_54: -7854872407150275833
+      Corrupted_Roots_55: 5470290235294974546
+      Corrupted_Roots_56: 4669565820866227670
+      Corrupted_Roots_57: -8723995135172156103
+      Corrupted_Roots_58: 4107131685111975432
+      Corrupted_Roots_59: -7282586181854012012
+      Corrupted_Roots_6: -4157491283762357103
+      Corrupted_Roots_60: 3276389298337058114
+      Corrupted_Roots_61: 1846517814838157692
+      Corrupted_Roots_62: -6321770626267384897
+      Corrupted_Roots_7: -6813459201434114717
+      Corrupted_Roots_8: -4705674113620357918
+      Corrupted_Roots_9: 4877363652515282303
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
